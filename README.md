@@ -126,6 +126,16 @@ java -jar target/auth-service.jar
 
 ---
 
+# API Documentation
+
+Swagger UI:
+
+```
+http://194.163.130.14:8030/swagger-ui/index.html
+```
+
+---
+
 # Running Tests
 
 Run all tests
